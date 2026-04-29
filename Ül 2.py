@@ -4,7 +4,7 @@ import sys
 # Algseadistus
 pygame.init()
 screen = pygame.display.set_mode((640, 480))
-pygame.display.set_caption("Ülesanne 2")
+pygame.display.set_caption("Ülesanne 2 - Metsjärv")
 
 # Piltide lisamine
 bg = pygame.image.load("bg_shop.jpg")
